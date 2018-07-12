@@ -11,9 +11,9 @@ Pro soulad s _Font Awesome_ je vhodné ve vlastním CSS nastavit třídě `.ci` 
 
 ## Přispívání
 
-* Zdrojové ikony jsou nakresleny jako SVG v gridu 14×14 px. Vektory jsou optimalizovány, aby v této velikosti co nejvíc seděly na pixelovou mřížku. 
+* Zdrojové ikony jsou nakresleny jako SVG v gridu 14×14 px. Stejně tak je ručně nastaven viewBox. Vektory jsou optimalizovány, aby v této velikosti co nejvíc seděly na pixelovou mřížku. 
 
-* Prosím ukládat jako `Plain SVG` – osekají se tak zbytečné tagy a soubor je menší a přehlednější. Taky je vhodné nějakým pluginem zaokrouhlit souřanice bodů, ať nejsou na milion desetinných míst.
+* Výsledný soubor prosím zoptimalizovat (např. pomocí [SVGO](https://jakearchibald.github.io/svgomg/)). Nebo aspoň uložit jako `Plain SVG` ať neobsahuje balast.
 
 * Zdrojové ikony se ukládají do adresáře `src`. Pak pullrequest.
 
