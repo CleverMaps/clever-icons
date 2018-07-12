@@ -2,18 +2,27 @@
 
 Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0/icons/) o několik ikon, které nám chyběly.
 
+![zoom-selection](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/zoom-selection.svg?sanitize=true)
+![zoom-selection-dashed](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/zoom-selection-dashed.svg?sanitize=true)
+![ruler](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/ruler.svg?sanitize=true)
+![ruler-triangle](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/ruler-triangle.svg?sanitize=true)
+![fullscreen](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/fullscreen.svg?sanitize=true)
+![fullscreen-box](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/fullscreen-box.svg?sanitize=true)
+
 ## Použití
 
-* Ručně: viz soubor `demo.html`.
-* Balíčkovačem: importovat `fonts` a `style.css`.
+* Buď ručně: viz soubor `demo.html`.
+* Nebo balíčkovačem: importovat `fonts` a `style.css`.
 
 Pro soulad s _Font Awesome_ je vhodné ve vlastním CSS nastavit třídě `.ci` stejné vlastnosti, jaké má třída `.fa` (např. preprocesorem), nebo alespoň nastavit `font-size: 14px`.
+
+Zápis v HTML je pak obdobný jako u _Font Awesome_ (viz demo).
 
 ## Přispívání
 
 * Zdrojové ikony jsou nakresleny jako SVG v gridu 14×14 px. Stejně tak je ručně nastaven viewBox. Vektory jsou optimalizovány, aby v této velikosti co nejvíc seděly na pixelovou mřížku. 
 
-* Výsledný soubor prosím zoptimalizovat (např. pomocí [SVGO](https://jakearchibald.github.io/svgomg/)). Nebo aspoň uložit jako `Plain SVG` ať neobsahuje balast.
+* Výsledný soubor prosím zoptimalizovat (např. pomocí [SVGO](https://jakearchibald.github.io/svgomg/)). Nebo aspoň uložit jako _Plain SVG_ ať neobsahuje balast.
 
 * Zdrojové ikony se ukládají do adresáře `src`. Pak pullrequest.
 
