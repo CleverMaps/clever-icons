@@ -2,19 +2,13 @@
 
 Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0/icons/) o několik ikon, které nám chyběly.
 
-![zoom-selection](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/zoom-selection.svg?sanitize=true) zoom-selection
-
-![zoom-selection-dashed](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/zoom-selection-dashed.svg?sanitize=true) zoom-selection-dashed
-
-![ruler](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/ruler.svg?sanitize=true) ruler
-
-![ruler-triangle](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/ruler-triangle.svg?sanitize=true) ruler-triangle
-
-![fullscreen](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/fullscreen.svg?sanitize=true) fullscreen
-
-![fullscreen-box](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/fullscreen-box.svg?sanitize=true) fullscreen-box
-
-![preview](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/preview.svg?sanitize=true) preview
+* ![zoom-selection](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/zoom-selection.svg?sanitize=true) zoom-selection
+* ![zoom-selection-dashed](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/zoom-selection-dashed.svg?sanitize=true) zoom-selection-dashed
+* ![ruler](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/ruler.svg?sanitize=true) ruler
+* ![ruler-triangle](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/ruler-triangle.svg?sanitize=true) ruler-triangle
+* ![fullscreen](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/fullscreen.svg?sanitize=true) fullscreen
+* ![fullscreen-box](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/fullscreen-box.svg?sanitize=true) fullscreen-box
+* ![preview](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/preview.svg?sanitize=true) preview
 
 ## Použití
 
