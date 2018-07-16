@@ -8,6 +8,7 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 ![ruler-triangle](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/ruler-triangle.svg?sanitize=true)
 ![fullscreen](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/fullscreen.svg?sanitize=true)
 ![fullscreen-box](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/fullscreen-box.svg?sanitize=true)
+![preview](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/preview.svg?sanitize=true)
 
 ## Použití
 
