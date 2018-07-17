@@ -1,0 +1,12 @@
+{
+  "name": "clever-icons",
+  "version": "1.4.1",
+  "description": "Adds new icons to Font Awesome set",
+  "author": "Jakub Stacho <jakub.stacho@clevermaps.cz>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CleverMaps/clever-icons"
+  },
+  "files": "dist",
+  "license": "MIT"
+}
