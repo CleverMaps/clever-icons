@@ -16,15 +16,15 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 > 
 > ![preview](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/preview.svg?sanitize=true) ci-preview
 > 
-> ![layers](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/layers.svg?sanitize=true) ci-layers
+> ![layers](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/layers.svg?sanitize=true) ci-layers (optimized for 16px)
 > 
-> ![sort-asc-down](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-asc-down.svg?sanitize=true) sort-asc-down
+> ![sort-asc-down](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-asc-down.svg?sanitize=true) ci-sort-asc-down
 > 
-> ![sort-asc-up](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-asc-up.svg?sanitize=true) sort-asc-up
+> ![sort-asc-up](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-asc-up.svg?sanitize=true) ci-sort-asc-up
 > 
-> ![sort-desc-down](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-desc-down.svg?sanitize=true) sort-desc-down
+> ![sort-desc-down](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-desc-down.svg?sanitize=true) ci-sort-desc-down
 > 
-> ![sort-desc-up](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-desc-up.svg?sanitize=true) sort-desc-up
+> ![sort-desc-up](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-desc-up.svg?sanitize=true) ci-sort-desc-up
 
 ## Použití
 
