@@ -25,6 +25,10 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 > ![sort-desc-down](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-desc-down.svg?sanitize=true) ci-sort-desc-down
 > 
 > ![sort-desc-up](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-desc-up.svg?sanitize=true) ci-sort-desc-up
+> 
+> ![filter-round](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-round.svg?sanitize=true) ci-filter-round
+> 
+> ![filter-round-cross](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-round-cross.svg?sanitize=true) ci-filter-round-cross
 
 ## Použití
 
@@ -39,7 +43,7 @@ Zápis v HTML je pak obdobný jako u _Font Awesome_ (viz demo).
 
 * Zdrojové ikony jsou nakresleny jako SVG v gridu 14×14 px. Stejně tak je ručně nastaven viewBox. Vektory jsou optimalizovány, aby v této velikosti co nejvíc seděly na pixelovou mřížku. 
 
-* Výsledný soubor prosím zoptimalizovat (např. pomocí [SVGO](https://jakearchibald.github.io/svgomg/)). Nebo aspoň uložit jako _Plain SVG_ ať neobsahuje balast.
+* Výsledný soubor prosím zoptimalizovat (např. pomocí [SVGO](https://jakearchibald.github.io/svgomg/)). Nebo aspoň uložit jako _Plain SVG_, ať neobsahuje balast.
 
 * Zdrojové ikony se ukládají do adresáře `src`. Pak pullrequest.
 
