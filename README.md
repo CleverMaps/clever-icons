@@ -29,6 +29,8 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 > ![filter-round](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-round.svg?sanitize=true) ci-filter-round
 > 
 > ![filter-round-cross](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-round-cross.svg?sanitize=true) ci-filter-round-cross
+> 
+> ![filter-cross](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-cross.svg?sanitize=true) ci-filter-cross
 
 ## Použití
 
