@@ -31,6 +31,10 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 > ![filter-round-cross](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-round-cross.svg?sanitize=true) ci-filter-round-cross
 > 
 > ![filter-cross](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-cross.svg?sanitize=true) ci-filter-cross
+> 
+> ![coin-czk](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/coin-czk.svg?sanitize=true) ci-coin-czk (28px)
+> 
+> ![coin-eur](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/coin-eur.svg?sanitize=true) ci-coin-eur (28px)
 
 ## Použití
 
