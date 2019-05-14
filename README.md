@@ -37,6 +37,10 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 > ![coin-eur](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/coin-eur.svg?sanitize=true) ci-coin-eur (optimized for 28px)
 > 
 > ![czech-post](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/czech-post.svg?sanitize=true) ci-czech-post (optimized for 28px)
+> 
+> ![arrow-up](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/arrow-up.svg?sanitize=true) ci-arrow-up
+> 
+> ![arrow-down](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/arrow-down.svg?sanitize=true) ci-arrow-down
 
 ## Použití
 
