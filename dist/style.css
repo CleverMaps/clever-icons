@@ -1,11 +1,12 @@
 @font-face {
   font-family: 'clevericons';
   src:
-    url('fonts/clevericons.ttf?o06ip5') format('truetype'),
-    url('fonts/clevericons.woff?o06ip5') format('woff'),
-    url('fonts/clevericons.svg?o06ip5#clevericons') format('svg');
+    url('fonts/clevericons.ttf?544li2') format('truetype'),
+    url('fonts/clevericons.woff?544li2') format('woff'),
+    url('fonts/clevericons.svg?544li2#clevericons') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 .ci {
@@ -23,6 +24,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ci-ca-badge:before {
+  content: "\e914";
+  color: #288128;
+}
 .ci-arrow-down:before {
   content: "\e912";
 }

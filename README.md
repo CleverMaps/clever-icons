@@ -41,6 +41,8 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 > ![arrow-up](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/arrow-up.svg?sanitize=true) ci-arrow-up
 > 
 > ![arrow-down](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/arrow-down.svg?sanitize=true) ci-arrow-down
+> 
+> ![ca-badge](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/ca-badge.svg?sanitize=true) ci-ca-badge
 
 ## Použití
 
