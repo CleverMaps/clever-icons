@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="14"
+   height="14"
+   id="svg4"
+   sodipodi:docname="calendar-cross.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview6"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     showborder="true"
+     inkscape:zoom="1"
+     inkscape:cx="-29.551738"
+     inkscape:cy="6.1169697"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12" />
+  </sodipodi:namedview>
+  <path
+     style="opacity:1;fill:#0f0f0f;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3.86400008;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="M 3.25 0 C 2.5575 0 2 0.5575 2 1.25 L 2 2 L 1 2 C 0.446 2 0 2.446 0 3 L 0 13 C 0 13.554 0.446 14 1 14 L 6.28125 14 C 6.0088001 13.715285 5.8344873 13.367653 5.7578125 13 L 3.75 13 L 3.75 10.75 L 6.25 10.75 L 6.25 11.164062 C 6.2711325 11.140835 6.2862071 11.114197 6.3085938 11.091797 L 6.3105469 11.089844 L 6.9023438 10.501953 L 6.3105469 9.9140625 L 6.3085938 9.9121094 C 6.2862071 9.8897094 6.2711325 9.8630712 6.25 9.8398438 L 6.25 10.25 L 3.75 10.25 L 3.75 7.75 L 5.8320312 7.75 C 5.892479 7.5741676 5.9739731 7.4060917 6.0820312 7.25 L 3.75 7.25 L 3.75 5 L 6.25 5 L 6.25 7.0429688 C 6.2711325 7.0197413 6.2862071 6.9931031 6.3085938 6.9707031 L 6.75 6.5292969 L 6.75 5 L 9.25 5 L 9.25 5.8730469 C 9.429455 5.9471976 9.5949206 6.0539561 9.75 6.1796875 L 9.75 5 L 12 5 L 12 5.7949219 C 12.326042 5.7060903 12.669763 5.6905905 13 5.7597656 L 13 3 C 13 2.446 12.554 2 12 2 L 11 2 L 11 1.25 C 11 0.5575 10.4425 0 9.75 0 L 9.25 0 C 8.5575 0 8 0.5575 8 1.25 L 8 2 L 5 2 L 5 1.25 C 5 0.5575 4.4425 0 3.75 0 L 3.25 0 z M 3.25 1 L 3.75 1 C 3.8885 1 4 1.1115 4 1.25 L 4 3.4980469 C 4 3.6365469 3.8885 3.7480469 3.75 3.7480469 L 3.25 3.7480469 C 3.1115 3.7480469 3 3.6365469 3 3.4980469 L 3 1.25 C 3 1.1115 3.1115 1 3.25 1 z M 9.25 1 L 9.75 1 C 9.8885 1 10 1.1115 10 1.25 L 10 3.4980469 C 10 3.6365469 9.8885 3.7480469 9.75 3.7480469 L 9.25 3.7480469 C 9.1115 3.7480469 9 3.6365469 9 3.4980469 L 9 1.25 C 9 1.1115 9.1115 1 9.25 1 z M 1 5 L 3.25 5 L 3.25 7.25 L 1 7.25 L 1 5 z M 1 7.75 L 3.25 7.75 L 3.25 10.25 L 1 10.25 L 1 7.75 z M 1 10.75 L 3.25 10.75 L 3.25 13 L 1 13 L 1 10.75 z "
+     id="rect38" />
+  <path
+     inkscape:connector-curvature="0"
+     d="M 12.97,7.3720001 A 0.58,0.58 0 0 0 12.15,7.3720001 L 10.5,9.0320001 8.85,7.3720001 A 0.58,0.58 0 0 0 8.03,7.3720001 L 7.37,8.0320001 A 0.58,0.58 0 0 0 7.37,8.8520001 L 9.03,10.502 7.37,12.152 A 0.58,0.58 0 0 0 7.37,12.972 L 8.03,13.632 A 0.6,0.6 0 0 0 8.85,13.632 L 10.5,11.972 12.15,13.632 C 12.38,13.852 12.75,13.852 12.97,13.632 L 13.63,12.972 A 0.58,0.58 0 0 0 13.63,12.152 L 11.97,10.502 13.63,8.8520001 A 0.58,0.58 0 0 0 13.63,8.0320001 Z"
+     id="path4" />
+</svg>

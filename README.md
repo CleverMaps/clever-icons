@@ -43,6 +43,8 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 > ![arrow-down](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/arrow-down.svg?sanitize=true) ci-arrow-down
 > 
 > ![ca-badge](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/ca-badge.svg?sanitize=true) ci-ca-badge
+> 
+> ![calendar-cross](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/calendar-cross.svg?sanitize=true) ci-calendar-cross
 
 ## Použití
 
