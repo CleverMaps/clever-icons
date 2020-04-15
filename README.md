@@ -26,10 +26,6 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 >
 > ![sort-desc-up](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/sort-desc-up.svg?sanitize=true) ci-sort-desc-up
 >
-> ![filter-round](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-round.svg?sanitize=true) ci-filter-round
->
-> ![filter-round-cross](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-round-cross.svg?sanitize=true) ci-filter-round-cross
->
 > ![filter-cross](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/filter-cross.svg?sanitize=true) ci-filter-cross
 >
 > ![coin-czk](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/coin-czk.svg?sanitize=true) ci-coin-czk (optimized for 28px)
@@ -49,6 +45,8 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 > ![coin-czk-inv](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/coin-czk-inv.svg?sanitize=true) ci-coin-czk-inv
 >
 > ![coin-eur-inv](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/coin-eur-inv.svg?sanitize=true) ci-coin-eur-inv
+>
+> ![parcel-part](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/parcel-part.svg?sanitize=true) ci-parcel-part
 
 ## Použití
 

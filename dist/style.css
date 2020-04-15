@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'clevericons';
   src:
-    url('fonts/clevericons.ttf?ldyw87') format('truetype'),
-    url('fonts/clevericons.woff?ldyw87') format('woff'),
-    url('fonts/clevericons.svg?ldyw87#clevericons') format('svg');
+    url('fonts/clevericons.ttf?el81sf') format('truetype'),
+    url('fonts/clevericons.woff?el81sf') format('woff'),
+    url('fonts/clevericons.svg?el81sf#clevericons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,75 +24,72 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ci-parcel-part:before {
+  content: "\25d4";
+}
 .ci-coin-eur-inv:before {
-  content: "\e916";
+  content: "\2300";
 }
 .ci-coin-czk-inv:before {
-  content: "\e917";
+  content: "\25cb";
 }
 .ci-calendar-cross:before {
-  content: "\e915";
+  content: "\22a0";
 }
 .ci-ca-badge:before {
-  content: "\e914";
+  content: "\2665";
 }
 .ci-arrow-down:before {
-  content: "\e912";
+  content: "\2193";
 }
 .ci-arrow-up:before {
-  content: "\e913";
+  content: "\2191";
 }
 .ci-czech-post:before {
-  content: "\e911";
+  content: "\232d";
 }
 .ci-coin-eur:before {
-  content: "\e90f";
+  content: "\20ac";
 }
 .ci-coin-czk:before {
-  content: "\e910";
+  content: "\a4";
 }
 .ci-filter-cross:before {
-  content: "\e90e";
-}
-.ci-filter-round-cross:before {
-  content: "\e90c";
-}
-.ci-filter-round:before {
-  content: "\e90d";
+  content: "\22bb";
 }
 .ci-sort-asc-down:before {
-  content: "\e908";
+  content: "\2908";
 }
 .ci-sort-asc-up:before {
-  content: "\e909";
+  content: "\2909";
 }
 .ci-sort-desc-down:before {
-  content: "\e90a";
+  content: "\2913";
 }
 .ci-sort-desc-up:before {
-  content: "\e90b";
+  content: "\2912";
 }
 .ci-layers:before {
-  content: "\e907";
+  content: "\2261";
 }
 .ci-preview:before {
-  content: "\e906";
+  content: "\2609";
 }
 .ci-zoom-selection:before {
-  content: "\e900";
+  content: "\229e";
 }
 .ci-zoom-selection-dashed:before {
-  content: "\e901";
+  content: "\2b";
 }
 .ci-ruler:before {
-  content: "\e902";
+  content: "\2b67";
 }
 .ci-ruler-triangle:before {
-  content: "\e903";
+  content: "\25fa";
 }
 .ci-fullscreen:before {
-  content: "\e904";
+  content: "\2b1a";
 }
 .ci-fullscreen-box:before {
-  content: "\e905";
+  content: "\25a3";
 }
