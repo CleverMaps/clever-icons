@@ -1,2 +1,3 @@
 /src/*-src.*
 /dist/*.txt
+/dist/demo*
