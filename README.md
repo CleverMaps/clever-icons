@@ -49,6 +49,8 @@ Tento repozitář rozšiřuje sadu [Font Awesome](https://fontawesome.com/v4.7.0
 > ![parcel-part](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/parcel-part.svg?sanitize=true) ci-parcel-part
 >
 > ![certificate](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/certificate.svg?sanitize=true) ci-certificate
+>
+> ![geo-data](https://raw.githubusercontent.com/CleverMaps/clever-icons/master/src/geo-data.svg?sanitize=true) ci-geo-data (optimized for 28px)
 
 ## Použití
 
